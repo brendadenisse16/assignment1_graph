@@ -1,0 +1,15 @@
+source,target,distance
+Montreal,Gatineau,196
+Montreal,Quebec,827
+Montreal,Toronto,541
+Montreal,Saguenay,475
+Gatineau,Quebec,844
+Gatineau,Sherbrooke,352
+Gatineau,Saguenay,644
+Quebec,Sherbrooke,234
+Quebec,Saguenay,211
+Sherbrooke,Saguenay,440
+Toronto,Hamilton,68
+Hamilton,Mississauga,48
+Toronto,NiagaraFalls,128
+Toronto,NewYork,790
